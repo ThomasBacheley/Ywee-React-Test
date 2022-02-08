@@ -1,4 +1,4 @@
-.lmj-banner {
+.ytr-banner {
 	color: black;
 	text-align: right;
 	padding: 32px;
@@ -9,11 +9,11 @@
 	align-items: center;
 }
 
-.lmj-title {
+.ytr-title {
 	padding-left: 32px;
 }
 
-.lmj-logo {
+.ytr-logo {
 	height: 45px;
 	width: 45px;
 }

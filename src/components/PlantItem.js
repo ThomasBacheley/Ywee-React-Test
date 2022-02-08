@@ -3,8 +3,8 @@ import '../styles/PlantItem.css'
 
 function PlantItem({ id, cover, name, water, light }) {
 	return (
-		<li key={id} className='lmj-plant-item'>
-			<img className='lmj-plant-item-cover' src={cover} alt={`${name} cover`} />
+		<li key={id} className='ytr-plant-item'>
+			<img className='ytr-plant-item-cover' src={cover} alt={`${name} cover`} />
 			{name}
 			<div>
 				<CareScale careType='water' scaleValue={water} />
